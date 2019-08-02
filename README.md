@@ -141,6 +141,7 @@ python ./evaluate/multipose_prn_val.py  # validate PRN subnet on val2017
 - [x] Combine Keypoint Estimation Subnet with Person Detection Subnet(RetinaNet)
 - [x] Combine Keypoint Estimation Subnet with [Pose Residual Network](https://github.com/salihkaragoz/pose-residual-network-pytorch/tree/master)
 - [ ] Keypoint Estimation Subnet with person segmentation mask
+- [ ] Updating by inwoong
 
 ### Update
 
